@@ -95,7 +95,7 @@ local chiHarmonyName = "Harmonie avec le Chi"
 # Support
 Please feel free to contact me on discord @lolswirl or ping me in Peak of Serenity if you come across issues or need clarification. :)
 
-<a target="_blank" href="https://twitch.tv/lolswirl"><img src="https://img.shields.io/badge/twitch-9045ff?style=for-the-badge&logo=twitch&logoColor=white"/></a><a target="_blank" href="https://wago.io/p/Swirl"><img src="https://img.shields.io/badge/wago-c1272d?style=for-the-badge&logoColor=white"/></a><a target="_blank" href="https://streamelements.com/lolswirl/tip"><img src="https://img.shields.io/badge/buy_me_a_coffee-003087?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
+<a target="_blank" href="https://twitch.tv/lolswirl"><img src="https://img.shields.io/badge/twitch-9045ff?style=for-the-badge&logo=twitch&logoColor=white"/></a><a target="_blank" href="https://wago.io/p/Swirl"><img src="https://img.shields.io/badge/wago-c1272d?style=for-the-badge&logoColor=white"/></a><a target="_blank" href="https://discord.gg/peakofserenity"><img src="https://img.shields.io/badge/peak_of_serenity-00ff96?style=for-the-badge&logoColor=white"/></a><a target="_blank" href="https://streamelements.com/lolswirl/tip"><img src="https://img.shields.io/badge/buy_me_a_coffee-003087?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
 
 
 
