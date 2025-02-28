@@ -9,16 +9,16 @@ DISCLAIMER: Adding snippets that override code in Cell may cause the addon to br
 
 # Examples
 Renewing Mist as a text indicator (top-right)</br>
-<img width=15% height=15% src="https://github.com/user-attachments/assets/9c51a35b-f719-460a-a3d4-19d159be36e3"/>
+<img width=20% height=20% src="https://github.com/user-attachments/assets/9c51a35b-f719-460a-a3d4-19d159be36e3"/>
 
 Renewing Mist and Chi Harmony (bottom-left) as text indicators</br>
-<img width=15% height=15% src="https://github.com/user-attachments/assets/a2123d5e-7ea6-43ae-a471-385d038720d9"/>
+<img width=20% height=20% src="https://github.com/user-attachments/assets/a2123d5e-7ea6-43ae-a471-385d038720d9"/>
 
 Renewing Mist and Chi Harmony as text indicators + Chi Harmony as a color indicator</br>
-<img width=15% height=15% src="https://github.com/user-attachments/assets/f35b588a-2b61-4660-b5c3-0e83ebb6495a"/>
+<img width=20% height=20% src="https://github.com/user-attachments/assets/f35b588a-2b61-4660-b5c3-0e83ebb6495a"/>
 
 Chi Harmony as an icon indicator</br>
-<img width=15% height=15% src="https://github.com/user-attachments/assets/21703f33-87a1-41c4-bea0-c64f05699f1e"/>
+<img width=20% height=20% src="https://github.com/user-attachments/assets/21703f33-87a1-41c4-bea0-c64f05699f1e"/>
 
 # Instructions
 1. Open Cell (`/cell opt`) and click the **Indicators** tab at the top menu options, then create a new indicator at the bottom-left corner.</br>
