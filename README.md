@@ -53,7 +53,7 @@ NOTE: If you have multiple layouts with different indexed indicators, the snippe
 11. Double click on the `unnamed` snippet to rename it - I named mine Chi Harmony. Press the checkbox next to its name to enable the snippet.</br>
 <img width=50% height=50% src="https://github.com/user-attachments/assets/3221cee9-8b90-4d86-847d-3acdd74e0b47"/>
 
-12. Paste the contencts of this file into the empty text box below the newly created snippet</br>
+12. Paste the contents of <a href="https://github.com/lolswirl/chi-harmony-in-cell/blob/main/ChiHarmony.lua" target="_blank">this file that stores some Chi Harmony buff logic</a> into the empty text box below the newly created snippet</br>
 <img width=50% height=50% src="https://github.com/user-attachments/assets/d4d1de89-4493-4520-bc58-e882adf19654"/>
 
 13. Now we'll do some editing to this code. At the top of the block of code (you may need to scroll up!), there are 3 lines of text:
