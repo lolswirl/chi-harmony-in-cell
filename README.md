@@ -3,6 +3,11 @@ With the change in The War Within of Chi Harmony being baked into Renewing Mist 
 
 DISCLAIMER: Adding snippets that override code in Cell may cause the addon to break in future updates if not kept up-to-date with the developer’s code.
 
+# Support
+Feel free to contact me on discord @lolswirl or ping in Peak of Serenity if you come across issues or need clarification. :)
+
+<a target="_blank" href="https://twitch.tv/lolswirl"><img src="https://img.shields.io/badge/twitch-9045ff?style=for-the-badge&logo=twitch&logoColor=white"/></a><a target="_blank" href="https://wago.io/p/Swirl"><img src="https://img.shields.io/badge/wago-c1272d?style=for-the-badge&logoColor=white"/></a><a target="_blank" href="https://discord.gg/peakofserenity"><img src="https://img.shields.io/badge/peak_of_serenity-00ff96?style=for-the-badge&logoColor=white"/></a><a target="_blank" href="https://streamelements.com/lolswirl/tip"><img src="https://img.shields.io/badge/buy_me_a_coffee-003087?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
+
 # Updates
 **2-25-2025**: Cell’s developer released Cell r245 with a slight change to their code that disabled all code snippets. You'll need to re-enable it under **About -> Code Snippets** and check the Chi Harmony snippet **checkbox** right next to its name then press Reload at the top right corner.</br>
 <img width=50% height=50% src="https://github.com/user-attachments/assets/704d5c50-12f4-456e-b119-5767b3e0c220"/>
@@ -91,11 +96,6 @@ local chiHarmonyName = "Harmonie avec le Chi"
 <img width=50% height=50% src="https://github.com/user-attachments/assets/2b2df9a6-204e-4ea5-9433-11572458bc1a"/>
 
 16. All done! Chi Harmony should display for you natively inside Cell.
-
-# Support
-Please feel free to contact me on discord @lolswirl or ping me in Peak of Serenity if you come across issues or need clarification. :)
-
-<a target="_blank" href="https://twitch.tv/lolswirl"><img src="https://img.shields.io/badge/twitch-9045ff?style=for-the-badge&logo=twitch&logoColor=white"/></a><a target="_blank" href="https://wago.io/p/Swirl"><img src="https://img.shields.io/badge/wago-c1272d?style=for-the-badge&logoColor=white"/></a><a target="_blank" href="https://discord.gg/peakofserenity"><img src="https://img.shields.io/badge/peak_of_serenity-00ff96?style=for-the-badge&logoColor=white"/></a><a target="_blank" href="https://streamelements.com/lolswirl/tip"><img src="https://img.shields.io/badge/buy_me_a_coffee-003087?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
 
 
 
