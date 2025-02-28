@@ -1,5 +1,5 @@
 # Tracking Chi Harmony in Cell
-With the change in The War Within of Chi Harmony being baked into Renewing Mist as a baseline effect, no longer having its own buff that makes it easy to track who has the effect - this guide will serve as a means to natively display Chi Harmony with duration tracking in Cell. You may use a WeakAura instead, however, due to limitations of WeakAuras, duration tracking isn't exact and may cause issues.
+With the change in The War Within of Chi Harmony being baked into Renewing Mist as a baseline effect, no longer having its own buff that makes it easy to track who has the effect - this guide will serve as a means to natively display Chi Harmony with duration tracking in Cell. You may use a [WeakAura](https://wago.io/15YqP_6ut) instead, however, due to limitations of WeakAuras, duration tracking isn't exact and may cause issues.
 
 DISCLAIMER: Adding snippets that override code in Cell may cause the addon to break in future updates if not kept up-to-date with the developer’s code.
 
