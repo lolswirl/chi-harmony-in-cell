@@ -4,7 +4,7 @@ With the change in The War Within of Chi Harmony being baked into Renewing Mist 
 DISCLAIMER: Adding snippets that override code in Cell may cause the addon to break in future updates if not kept up-to-date with the developer’s code.
 
 # Updates
-**2-25-2025**: Cell’s developer released Cell r245 with a slight change to their code that disabled all code snippets. You'll need to re-enable it under **About -> Code Snippets** and check the Chi Harmony snippet **checkbox** right next to its name then press Reload at the top right corner.
+**2-25-2025**: Cell’s developer released Cell r245 with a slight change to their code that disabled all code snippets. You'll need to re-enable it under **About -> Code Snippets** and check the Chi Harmony snippet **checkbox** right next to its name then press Reload at the top right corner.</br>
 <img width=50% height=50% src="https://github.com/user-attachments/assets/704d5c50-12f4-456e-b119-5767b3e0c220"/>
 
 # Examples
