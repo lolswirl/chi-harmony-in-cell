@@ -34,7 +34,8 @@ Chi Harmony as an icon indicator
 # Instructions
 1. Open Cell using `/cell opt`, go to the **Indicators** tab, and create a new indicator in the bottom-left corner.</br><img src="https://github.com/user-attachments/assets/2015e519-5b2a-4c4d-8793-b5bec6c31bdc" width=40% height=40%/>
 
-2. Name it **Chi Harmony** (can really be any name!), select any of the highlighted options (**ICONS, BLOCKS, AND BARS INDICATORS WILL NOT WORK!!!**), ensure **Buff** is selected,  then press **Yes**.</br><img src="https://github.com/user-attachments/assets/259e716f-2b10-4e73-a0f7-50f86870c22b" width=25% height=25%/>
+2. Name it **Chi Harmony** (can really be any name!), select any of the highlighted options (**ICONS, BLOCKS, AND BARS INDICATORS WILL NOT WORK!!!**), ensure **Buff** is selected,  then press **Yes**.</br><img src="https://github.com/user-attachments/assets/88c21a8c-0e3d-4b75-bebf-1e3d1d8d6d31" width=25% height=25%/>
+
 
 3. Find your newly created indicator in the list and select it.</br><img width=40% height=40% src="https://github.com/user-attachments/assets/e1930702-757c-4452-8f06-077487c81453"/>
 
