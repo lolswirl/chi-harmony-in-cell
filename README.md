@@ -6,9 +6,9 @@ Alternatively, you may use this [WeakAura](https://wago.io/15YqP_6ut) but note t
 > Adding snippets that override code in Cell may cause the addon to break in future updates if not kept up-to-date with the developer’s code. I will continually update here if there are any changes.
 
 # Support
-If you have any issues or need clarification, feel free to reach out on discord `lolswirl` dm or ping in **Peak of Serenity**. :)
+If you have any issues or need clarification, feel free to reach out in my discord below. :)
 
-<a target="_blank" href="https://twitch.tv/lolswirl"><img src="https://img.shields.io/badge/twitch-9045ff?style=for-the-badge&logo=twitch&logoColor=white"/></a><a target="_blank" href="https://wago.io/p/Swirl"><img src="https://img.shields.io/badge/wago-c1272d?style=for-the-badge&logoColor=white"/></a><a target="_blank" href="https://discord.gg/peakofserenity"><img src="https://img.shields.io/badge/peak_of_serenity-00ff96?style=for-the-badge&logoColor=white"/></a><a target="_blank" href="https://streamelements.com/lolswirl/tip"><img src="https://img.shields.io/badge/buy_me_a_coffee-003087?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
+<a target="_blank" href="https://twitch.tv/lolswirl"><img src="https://img.shields.io/badge/twitch-9045ff?style=for-the-badge&logo=twitch&logoColor=white"/></a><a target="_blank" href="https://discord.gg/ZU5rhXtbNd"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a><a target="_blank" href="https://wago.io/p/Swirl"><img src="https://img.shields.io/badge/wago-c1272d?style=for-the-badge&logoColor=white"/><a target="_blank" href="https://streamelements.com/lolswirl/tip"><img src="https://img.shields.io/badge/buy_me_a_coffee-003087?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
 
 # Updates
 ### Feb 25, 2025
