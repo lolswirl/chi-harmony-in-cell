@@ -11,12 +11,8 @@ If you have any issues or need clarification, feel free to reach out in my disco
 <a target="_blank" href="https://twitch.tv/lolswirl"><img src="https://img.shields.io/badge/twitch-9045ff?style=for-the-badge&logo=twitch&logoColor=white"/></a><a target="_blank" href="https://discord.gg/ZU5rhXtbNd"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a><a target="_blank" href="https://wago.io/p/Swirl"><img src="https://img.shields.io/badge/wago-c1272d?style=for-the-badge&logoColor=white"/></a><a target="_blank" href="https://streamelements.com/lolswirl/tip"><img src="https://img.shields.io/badge/support-e694ae?style=for-the-badge&logo=undertale&textColor=white"/></a>
 
 # Updates
-### Feb 25, 2025
-Cell **r245** update disabled all code snippets. To re-enable:
-1. Go to `About` -> `Code Snippets`
-2. Check the box next to `Chi Harmony` snippet
-3. Press `Reload`
-<img width=50% height=50% src="https://github.com/user-attachments/assets/704d5c50-12f4-456e-b119-5767b3e0c220"/>
+### March 18, 2025
+Added a check on indicators to avoid clashing with layouts that _do not_ have Chi Harmony on them.
 
 # Examples
 Renewing Mist as a text indicator (top-right)  
