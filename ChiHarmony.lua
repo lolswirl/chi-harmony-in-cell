@@ -1,6 +1,6 @@
 -- this snippet was created to display chi harmony natively in cell
 -- check for any updates here https://github.com/lolswirl/chi-harmony-in-cell
--- version 1.0.5 by swirl @lolswirl
+-- version 1.0.6 by swirl @lolswirl
 
 local colorIndicatorIndex = "indicator1"
 local durationIndicatorIndex = "indicator8"
