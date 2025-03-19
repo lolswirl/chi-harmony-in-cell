@@ -73,7 +73,7 @@ function I.UpdateCustomIndicators(unitButton, auraInfo)
                     if auraType == "buff" then
                         -- check caster
                         if (indicatorTable["castBy"] == "me" and castByMe) or (indicatorTable["castBy"] == "others" and not castByMe) or (indicatorTable["castBy"] == "anyone") then
-                            if indicatorName == durationIndicatorIndex and spell == "Renewing Mist" then
+                            if indicatorName == durationIndicatorIndex and auraInfo.spellId == 119611 then
                                 local chiHarmonyDuration = duration <= 8 and duration or 8
                                 Update(unitButton.indicators[indicatorName], indicatorTable, unit, chiHarmonyName, start, chiHarmonyDuration, debuffType, chiHarmonyIcon, count, auraInfo.refreshing)
                             end
