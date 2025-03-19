@@ -1,12 +1,15 @@
--- Version 1.0.4 by Swirl @lolswirl
-local I = Cell.iFuncs
+-- this snippet was created to display chi harmony natively in cell
+-- check for any updates here https://github.com/lolswirl/chi-harmony-in-cell
+-- version 1.0.5 by swirl @lolswirl
 
-local colorIndicatorIndex = "indicator2"
+local colorIndicatorIndex = "indicator1"
 local durationIndicatorIndex = "indicator8"
 local chiHarmonyName = "Chi Harmony"
 local chiHarmonyIcon = 1381294
 
 -- do not edit anything past this point!
+
+local I = Cell.iFuncs
 
 local function Update(indicator, indicatorTable, unit, spell, start, duration, debuffType, icon, count, refreshing)
     if indicatorTable["num"] then
@@ -70,11 +73,8 @@ function I.UpdateCustomIndicators(unitButton, auraInfo)
                     if auraType == "buff" then
                         -- check caster
                         if (indicatorTable["castBy"] == "me" and castByMe) or (indicatorTable["castBy"] == "others" and not castByMe) or (indicatorTable["castBy"] == "anyone") then
-                            if indicatorName == durationIndicatorIndex then
-                                local chiHarmonyDuration = duration
-                                if duration >= 8 then
-                                    chiHarmonyDuration = 8
-                                end
+                            if indicatorName == durationIndicatorIndex and spell == "Renewing Mist" then
+                                local chiHarmonyDuration = duration <= 8 and duration or 8
                                 Update(unitButton.indicators[indicatorName], indicatorTable, unit, chiHarmonyName, start, chiHarmonyDuration, debuffType, chiHarmonyIcon, count, auraInfo.refreshing)
                             end
                             Update(unitButton.indicators[indicatorName], indicatorTable, unit, spell, start, duration, debuffType, icon, count, auraInfo.refreshing)
@@ -87,3 +87,4 @@ function I.UpdateCustomIndicators(unitButton, auraInfo)
         end
     end
 end
+
