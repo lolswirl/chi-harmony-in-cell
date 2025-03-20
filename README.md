@@ -43,7 +43,7 @@ Chi Harmony as an icon indicator
   > [!NOTE]
   > These indicators only track Chi Harmony. To track Renewing Mist, use a seperate indicator or the built-in `Healers` indicator.
 
-7. After your indicator(s) are created, look at the list on the left side of the **Indicators** tab and figure out the index (number) of your newly created indicators counting up starting at `Healers` in the list. Mine are located at index **2** for my Chi Harmony Color Indicator and index **10** for my Chi Harmony Text Indicator. See the picture for reference.
+7. After your indicator(s) are created, look at the list on the left side of the **Indicators** tab and figure out the index (number) of your newly created indicators counting up starting at `Healers` in the list. If you do not have a `Healers` indicator, start counting up at your first custom indicator - it will be the one right below `Missing Buffs`. Mine are located at index **2** for my Chi Harmony Color Indicator and index **10** for my Chi Harmony Text Indicator. See the picture for reference.
   > [!NOTE]
   > If you only created one in the previous steps, that's fine - just note down that index.</br></br>
   > If you have multiple layouts with different indexes, the snippet won’t work across all layouts. Try to keep consistency.
