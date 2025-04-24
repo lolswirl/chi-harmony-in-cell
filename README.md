@@ -2,6 +2,8 @@
 With changes in _The War Within_, **Chi Harmony** is now baked into **Renewing Mist** as a baseline effect, removing its standalone buff and making tracking more difficult. This guide provides a way to natively display Chi Harmony with duration tracking in Cell.  
 Alternatively, you may use this [WeakAura](https://wago.io/15YqP_6ut) but note that WeakAuras has limitations in duration tracking (due to extensions), which may cause inaccuracies.
 
+As of patch 11.1.5, Chi Harmony's icon has changed from <img width=2% height=2% src="https://github.com/user-attachments/assets/787cf6ca-2d95-46d9-8c6a-110ddb35df26"/> to <img width=2% height=2% src="https://github.com/user-attachments/assets/5d052802-57ae-4a07-9726-2156764a9162"/>, going back to <img width=2% height=2% src="https://github.com/user-attachments/assets/704c01b8-4889-40ec-808a-e3c4be8b38dc"/> Renewing Mist once Chi Harmony has fallen off. For visual clarity, this is a huge step forward. However the original intent of this snippet was to display the _actual_ duration left on Chi Harmony, which it still succeeds in.
+
 > [!CAUTION]
 > Adding snippets that override code in Cell may cause the addon to break in future updates if not kept up-to-date with the developer’s code. I will continually update here if there are any changes.
 
